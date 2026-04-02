@@ -1,1 +1,6 @@
 Dataset - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download
+
+Github repository - https://github.com/yevintheenura01/ML_assignment.git
+
+Youtube video - 
+
